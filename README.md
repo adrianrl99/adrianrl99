@@ -1,6 +1,6 @@
 # Hello :)
 
-### Coderwars
+### Codewars
 ![codewars](https://www.codewars.com/users/adrianrl99/badges/large)
 
 ### Coders Rank Summary 
