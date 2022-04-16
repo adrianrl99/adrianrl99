@@ -3,8 +3,7 @@
 ### Codewars
 ![codewars](https://www.codewars.com/users/adrianrl99/badges/large)
 
-### GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=adrianrl99&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### GitHub Readmy stats
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=adrianrl99&count_private=true&theme=onedark&hide_border=true&border_radius=4px)
 
-### Coders Rank Summary 
-![summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adrianrl99)
+![github-readme-stats-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianrl99&count_private=true&theme=onedark&langs_count=10&layout=compact&hide_border=true&border_radius=4px)
