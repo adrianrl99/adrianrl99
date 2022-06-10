@@ -8,7 +8,7 @@ Front-end Developer
 
 *   🖥️  See my portfolio at [adrianlopez.site](http://www.adrianlopez.site)
 *   ✉️  You can contact me at [adrianrlc99@gmail.com](mailto:adrianrlc99@gmail.com)
-*   🧠  I'm learning [computer science](https://github.com/ossu/computer-science)
+*   🧠  I'm learning [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
 ### Skills
 
