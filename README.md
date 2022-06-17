@@ -75,6 +75,11 @@ Front-end Developer
   </a>
 </p>
 
+
+### Cool projects
+
+- [Space Invader](https://github.com/adrianrl99/space-invaders.rkt) (with [racket](https://racket-lang.org/))
+
 ### Badges
 
 #### Codewars
