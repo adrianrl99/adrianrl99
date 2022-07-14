@@ -78,7 +78,9 @@ Front-end Developer
 
 ### Cool projects
 
-- [Space Invader](https://github.com/adrianrl99/space-invaders.rkt) (with [racket](https://racket-lang.org/))
+- [Space Invader](https://github.com/adrianrl99/space-invaders.rkt) (with [Racket](https://racket-lang.org/))
+- [Hack Assembler](https://github.com/adrianrl99/hack-assembler) (with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript))
+- [nand2tetris tools](https://github.com/adrianrl99/nand2tetris-tools) (with [Haskell](https://haskell.org/)) **unfinished**
 
 ### Badges
 
